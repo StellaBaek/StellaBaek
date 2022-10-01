@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Stella! 🧚‍♀️
 I'm a front-end developer currently looking for new opportunities! ✨
 
+
 🛠  Technologies and tools: 
 
 <img src="https://camo.githubusercontent.com/6f6990a311bb84dff8a426a5686eafc1986184c3b1066580fe36a9b0a0377d26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3238324333343f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" alt="JavaScript Logo">
