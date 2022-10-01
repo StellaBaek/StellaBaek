@@ -7,6 +7,7 @@ I like automating things, exploring scalable problems, collaborating with others
 
 
 🛠  My Tool Sets:
+****
 
 <p float="left">
 <img src="https://camo.githubusercontent.com/6f6990a311bb84dff8a426a5686eafc1986184c3b1066580fe36a9b0a0377d26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3238324333343f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" alt="JavaScript Logo" style="display: inline-block">
@@ -20,16 +21,20 @@ I like automating things, exploring scalable problems, collaborating with others
 </p>
 
 💪 Other Skills: <br>
+****
 <ul>
 <li> Strong Mathmatical Background </li>
 <li>Algorithms & Data Structures </li>
 </ul>
 
-⭐️ Fun fact: I'm a full-time <b>adventure seeker!</b> <br><br>
+⭐️ Fun fact: 
+****
+I'm a full-time <b>adventure seeker!</b> <br><br>
 When I'm not coding, you can find me exploring the world & nature! 🌎 I love camping, hiking and backpacking! 🏕 <br>
 I'm also an animal lover! I spend my free time walking or going picnic with my dog. 🐕 🐾
 
-📫 How to reach me: <br>
+📫 How to reach me: 
+****
 Email: seungyeon1008@gmail.com <br>
 LinkedIn: www.linkedin.com/in/stellabaek
 
