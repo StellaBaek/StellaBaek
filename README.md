@@ -21,7 +21,7 @@ I like automating things, exploring scalable problems, collaborating with others
 💪 Other Skills: <br>
 <ul>
 <li> Strong Mathmatical Background </li>
-<li>Algorithms & Data Structure </li>
+<li>Algorithms & Data Structures </li>
 </ul>
 
 ⭐️ Fun fact: I'm a full-time <b>adventure seeker!</b> <br><br>
