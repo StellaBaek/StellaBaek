@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Stella! 🧚‍♀️
-I'm a front-end developer currently looking for new opportunities! ✨ <br><br>
+I'm a front-end developer currently looking for new opportunities! ✨ 
 ****
 ⚡️ I'm energetic, strong-willed and always eager to learn new things. <br>
 My passion and dedication, optimism, self-motivation and cheerfulness is what distinguishes me from others. <br><br>
