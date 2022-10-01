@@ -23,7 +23,7 @@ When I'm not coding, you can find me exploring the world & nature! 🌎 I love c
 I'm also an animal lover! I spend my free time walking or going picnic with my dog. 🐕 🐾
 
 📫 How to reach me:
-Email: seungyeon1008@gmail.com
+Email: seungyeon1008@gmail.com <br>
 LinkedIn: www.linkedin.com/in/stellabaek
 
 <!--
