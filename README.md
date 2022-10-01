@@ -19,6 +19,10 @@ I like automating things, exploring scalability problems 💻 and improving effi
 ⭐️ Fun fact: I'm a full-time <b>adventure seeker!</b> <br>
 When I'm not coding, you can find me exploring the world & nature! 🌎 I love camping, hiking and backpacking! 🏕
 
+📫 How to reach me:
+Email: seungyeon1008@gmail.com
+LinkedIn: www.linkedin.com/in/stellabaek
+
 <!--
 **StellaBaek/StellaBaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
