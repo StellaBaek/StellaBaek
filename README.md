@@ -17,8 +17,7 @@ I like automating things, exploring scalability problems 💻 and improving effi
 </p>
 
 ⭐️ Fun fact: I'm a full-time <b>adventure seeker!</b> <br>
-When I'm not coding, you can find me exploring the world & nature! 🌎 <br>
-I love camping, hiking and backpacking! 🏕 <br>
+When I'm not coding, you can find me exploring the world & nature! 🌎 I love camping, hiking and backpacking! 🏕 <br>
 I'm also an animal lover! I spend my free time walking or going picnic with my dog. 🐕 🐾
 
 📫 How to reach me:
