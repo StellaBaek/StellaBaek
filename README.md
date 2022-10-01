@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Stella! 🧚‍♀️
+I'm a front-end developer currently looking for new opportunities! ✨
 
 <!--
 **StellaBaek/StellaBaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
