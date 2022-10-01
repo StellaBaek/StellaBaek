@@ -19,10 +19,10 @@ I like automating things, exploring scalable problems, collaborating with others
 </p>
 
 💪 Other Skills: <br>
-<ol>
+<ul>
 <li> Strong Mathmatical Background </li>
 <li>Algorithms & Data Structure </li>
-</ol>
+</ul>
 
 ⭐️ Fun fact: I'm a full-time <b>adventure seeker!</b> <br><br>
 When I'm not coding, you can find me exploring the world & nature! 🌎 I love camping, hiking and backpacking! 🏕 <br>
