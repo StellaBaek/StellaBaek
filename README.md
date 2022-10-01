@@ -22,7 +22,7 @@ I like automating things, exploring scalable problems, collaborating with others
 When I'm not coding, you can find me exploring the world & nature! 🌎 I love camping, hiking and backpacking! 🏕 <br>
 I'm also an animal lover! I spend my free time walking or going picnic with my dog. 🐕 🐾
 
-📫 How to reach me:
+📫 How to reach me: <br>
 Email: seungyeon1008@gmail.com <br>
 LinkedIn: www.linkedin.com/in/stellabaek
 
