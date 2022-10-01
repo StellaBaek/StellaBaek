@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Stella! 🧚‍♀️
-I'm a front-end developer currently looking for new opportunities! ✨
+I'm a front-end developer currently looking for new opportunities! ✨ <br>
 I like automating things, exploring scalability problems 💻 and improving efficiency and performance.
 
 
