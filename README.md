@@ -19,19 +19,19 @@ I like automating things, exploring scalable problems, collaborating with others
 <img src="https://camo.githubusercontent.com/3f289d98c7b8dc0adb54cbeebcac97d462b8f027f9b3b88deaaab35eddba49b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652d3238324333343f6c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343" alt="vs code logo"  style="display: inline-block">
 </p>
 
-💪 <h3>Other Skills: </h3>
+<h3> 💪 Other Skills: </h3>
 
 <ul>
 <li> Strong Mathmatical Background </li>
 <li>Algorithms & Data Structures </li>
 </ul>
 
-⭐️ <h3> Fun fact: </h3>
+<h3> ⭐️ Fun fact: </h3>
 I'm a full-time <b>adventure seeker!</b> <br><br>
 When I'm not coding, you can find me exploring the world & nature! 🌎 I love camping, hiking and backpacking! 🏕 <br>
 I'm also an animal lover! I spend my free time walking or going picnic with my dog. 🐕 🐾
 
-📫 <h3> How to reach me: </h3>
+<h3> 📫 How to reach me: </h3>
 Email: seungyeon1008@gmail.com <br>
 LinkedIn: www.linkedin.com/in/stellabaek
 
