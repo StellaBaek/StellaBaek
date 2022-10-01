@@ -1,4 +1,4 @@
-### <h1> Hi there 👋 I'm Stella! 🤍 </h1>
+### <h2> Hi there 👋 I'm Stella! 🤍 </h2>
 <h3> I'm a front-end developer currently looking for new opportunities! ✨ </h3>
 ****
 ⚡️ I'm energetic, strong-willed and always eager to learn new things. <br>
