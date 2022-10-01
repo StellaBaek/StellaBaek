@@ -13,7 +13,7 @@ I'm a front-end developer currently looking for new opportunities! ✨
 <img src="https://camo.githubusercontent.com/6872de59dac86ded0a8d5d2beb0cb20b0a9cd7e2bbd578493baa084ad5aa2700/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d3238324333343f6c6f676f3d676974266c6f676f436f6c6f723d463035303332" alt="git logo"  style="display: inline-block">
 <img src="https://camo.githubusercontent.com/3f289d98c7b8dc0adb54cbeebcac97d462b8f027f9b3b88deaaab35eddba49b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652d3238324333343f6c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343" alt="vs code logo"  style="display: inline-block">
 
-Bio :
+
 -⭐️ Fun fact: I'm full-time adventure seeker! When I'm not coding, you can find me exploring the world & nature! 🌎 I love camping, hiking and backpacking! 🏕
 
 <!--
