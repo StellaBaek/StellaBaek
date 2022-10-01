@@ -3,8 +3,6 @@ I'm a front-end developer currently looking for new opportunities! ✨ <br><br>
 ⚡️ I'm energetic, strong-willed, conscientious and always eager to learn new things. <br>
 Yet, I'm flexible and easy to work with. <br>
 I like automating things, exploring scalable problems, collaborating with others and improving efficiency and performance. 💻<br><br>
-Take a sneak peek into how I got to where I am (so far).
-
 
 
 🛠  My Tool Sets:
