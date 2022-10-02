@@ -36,8 +36,9 @@ I'm also an animal lover! I spend my free time walking or going picnic with my d
 <h3> 📫 How to reach me: </h3>
 Email: seungyeon1008@gmail.com <br>
 LinkedIn: www.linkedin.com/in/stellabaek
+<br>
 
-
+https://activity-graph.herokuapp.com/graph?StellaBaek={StellaBaek}&theme=minimal
 
 
 <!--
