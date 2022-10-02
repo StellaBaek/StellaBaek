@@ -1,5 +1,5 @@
 ### <h2> Hi there 👋 I'm Stella! 🤍 </h2>
-<h3> I'm a front-end developer currently looking for new opportunities! ✨ </h3>
+<h3> I'm a front-end developer ✨ </h3>
 
 ⚡️ I'm energetic, strong-willed and always eager to learn new things. <br>
 My passion and dedication, optimism, self-motivation and cheerfulness is what distinguishes me from others. <br><br>
@@ -16,7 +16,6 @@ I like automating things, exploring scalable problems, collaborating with others
 <img src="https://camo.githubusercontent.com/0e883dc2faeafa529ba419ec728fc147d4688974a420eca94b8610c9d05bfb32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3238324333343f6c6f676f3d7265647578266c6f676f436f6c6f723d373634414243" alt="redux logo"  style="display: inline-block">
 <img src="https://camo.githubusercontent.com/d7acbbe6bd9702a2a1507f74de23919e5c1a5f9373c7b7cb94fb4074f42d1a9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3238324333343f6c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d333339393333" alt="nodeJS logo"  style="display: inline-block">
 <img src="https://camo.githubusercontent.com/6872de59dac86ded0a8d5d2beb0cb20b0a9cd7e2bbd578493baa084ad5aa2700/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d3238324333343f6c6f676f3d676974266c6f676f436f6c6f723d463035303332" alt="git logo"  style="display: inline-block">
-<img src="https://camo.githubusercontent.com/3f289d98c7b8dc0adb54cbeebcac97d462b8f027f9b3b88deaaab35eddba49b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652d3238324333343f6c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343" alt="vs code logo"  style="display: inline-block">
 </p>
 
 <h3> 💪 Other Skills: </h3>
