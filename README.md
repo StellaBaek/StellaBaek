@@ -36,9 +36,9 @@ When I'm not coding, you can find me exploring the world & nature! 🌎 I love c
 I'm also an animal lover! I spend my free time walking or going picnic with my dog, "Mango". 🐕 🐾
 
 <h3> 📫 How to reach me: </h3>
-Email: seungyeon1008@gmail.com 
+Email: seungyeon1008@gmail.com <br>
 <p>
-  <a href="www.linkedin.com/in/[stellabaek]" rel="stella's linkedin">
+  <a href="www.linkedin.com/in/stellabaek" rel="stella's linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"> 
   </a> &nbsp; 
 </p>
