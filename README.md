@@ -38,7 +38,7 @@ Email: seungyeon1008@gmail.com <br>
 LinkedIn: www.linkedin.com/in/stellabaek
 <br>
 
- <img src="[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" />
+<img src="[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)">
 
 
 
