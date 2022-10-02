@@ -1,5 +1,5 @@
 ### <h2> Hi there 👋 I'm Stella! 🤍 </h2>
-<h3> I'm a front-end developer ✨ </h3>
+<h3> I'm a front-end developer based in Los Angeles, CA ✨ </h3>
 
 ⚡️ I'm energetic, strong-willed and always eager to learn new things. <br>
 My passion and dedication, optimism, self-motivation and cheerfulness is what distinguishes me from others. <br><br>
