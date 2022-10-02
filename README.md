@@ -1,4 +1,6 @@
-### <h2> Hi there 👋 I'm Stella! 🤍 </h2>
+### 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/StellaBaek/StellaBaek?color=%23ffc1bf&logo=Github&style=flat-square)
+<h2> Hi there 👋 I'm Stella! 🤍 </h2>
 <h3> I'm a Software Engineer based in Los Angeles, CA ✨ </h3>
 
 ⚡️ I'm energetic, strong-willed and always eager to learn new things. <br>
@@ -36,7 +38,7 @@ Email: seungyeon1008@gmail.com <br>
 LinkedIn: www.linkedin.com/in/stellabaek
 
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/StellaBaek/StellaBaek?color=%23ffc1bf&logo=Github&style=flat-square)
+
 
 <!--
 **StellaBaek/StellaBaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
