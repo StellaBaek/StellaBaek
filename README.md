@@ -29,7 +29,7 @@ I like automating things, exploring scalable problems, collaborating with others
 <h3> ⭐️ Fun fact: </h3>
 I'm a full-time <b>adventure seeker!</b> <br><br>
 When I'm not coding, you can find me exploring the world & nature! 🌎 I love camping, hiking and backpacking! 🏕 <br>
-I'm also an animal lover! I spend my free time walking or going picnic with my dog. 🐕 🐾
+I'm also an animal lover! I spend my free time walking or going picnic with my dog, "Mango". 🐕 🐾
 
 <h3> 📫 How to reach me: </h3>
 Email: seungyeon1008@gmail.com <br>
