@@ -9,13 +9,15 @@ I like automating things, exploring scalable problems, collaborating with others
 <h3> 🛠 My Tool Sets:  </h3>
 
 <p float="left">
-<img src="https://camo.githubusercontent.com/6f6990a311bb84dff8a426a5686eafc1986184c3b1066580fe36a9b0a0377d26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3238324333343f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" alt="JavaScript Logo" style="display: inline-block">
-<img src="https://camo.githubusercontent.com/abcb2d8365dc291062b0a73ef91f79cb6477ceec8bbeffe915e0a05745990590/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d3238324333343f6c6f676f3d68746d6c35266c6f676f436f6c6f723d453334463236" alt="html logo"  style="display: inline-block">
-<img src="https://camo.githubusercontent.com/1d372ce1dd004b42242a105c8881a869738e4604097976354aeced3322f93bbd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3238324333343f6c6f676f3d63737333266c6f676f436f6c6f723d313537324236" alt="css logo"  style="display: inline-block">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Logo" style="display: inline-block">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html logo"  style="display: inline-block">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css logo"  style="display: inline-block">
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react logo"  style="display: inline-block">
-<img src="https://camo.githubusercontent.com/0e883dc2faeafa529ba419ec728fc147d4688974a420eca94b8610c9d05bfb32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3238324333343f6c6f676f3d7265647578266c6f676f436f6c6f723d373634414243" alt="redux logo"  style="display: inline-block">
-<img src="https://camo.githubusercontent.com/d7acbbe6bd9702a2a1507f74de23919e5c1a5f9373c7b7cb94fb4074f42d1a9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3238324333343f6c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d333339393333" alt="nodeJS logo"  style="display: inline-block">
-<img src="https://camo.githubusercontent.com/6872de59dac86ded0a8d5d2beb0cb20b0a9cd7e2bbd578493baa084ad5aa2700/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d3238324333343f6c6f676f3d676974266c6f676f436f6c6f723d463035303332" alt="git logo"  style="display: inline-block">
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux logo"  style="display: inline-block">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodeJS logo"  style="display: inline-block">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git logo"  style="display: inline-block">
+<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery logo" style="display: inline-block">
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" style="display: inline-block">
 </p>
 
 <h3> 💪 Other Skills: </h3>
