@@ -38,8 +38,8 @@ I'm also an animal lover! I spend my free time walking or going picnic with my d
 <h3> 📫 How to reach me: </h3>
 Email: seungyeon1008@gmail.com 
 <p>
-  <a href="www.linkedin.com/in/stellabaek" rel="stella's linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"> LinkedIn
+  <a href="www.linkedin.com/in/[stellabaek]" rel="stella's linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"> 
   </a> &nbsp; 
 </p>
 
