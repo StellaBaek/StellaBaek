@@ -1,6 +1,6 @@
 ### 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/StellaBaek/StellaBaek?color=%23ffc1bf&logo=Github&style=flat-square)
-<div style="text-align: center">
+<div align: "center">
 <h2> Hi there 👋 I'm Stella! 🤍 </h2>
 </div>
 <h3> I'm a Software Engineer based in Los Angeles, CA ✨ </h3>
