@@ -35,6 +35,7 @@ I'm also an animal lover! I spend my free time walking or going picnic with my d
 Email: seungyeon1008@gmail.com <br>
 LinkedIn: www.linkedin.com/in/stellabaek
 
+<br>
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/StellaBaek/StellaBaek?color=%23ffc1bf&logo=Github&style=flat-square)
 
 <!--
