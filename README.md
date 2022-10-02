@@ -23,8 +23,8 @@ I like automating things, exploring scalable problems, collaborating with others
 </p>
 
 ### 💪 Other Skills: 
-*Strong Mathmatical Background 
-*Algorithms & Data Structures 
+* Strong Mathmatical Background <br>
+* Algorithms & Data Structures 
 
 
 ### ⭐️ Fun fact: 
