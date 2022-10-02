@@ -10,7 +10,7 @@ My passion and dedication, optimism, self-motivation and cheerfulness is what di
 I like automating things, exploring scalable problems, collaborating with others and improving efficiency and performance. 💻<br><br>
 ****
 
-<h3> 🛠 My Tool Sets:  </h3>
+### 🛠 My Tool Sets:  
 
 <p float="left">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Logo" style="display: inline-block">
@@ -23,19 +23,19 @@ I like automating things, exploring scalable problems, collaborating with others
 
 </p>
 
-<h3> 💪 Other Skills: </h3>
+### 💪 Other Skills: 
 
 <ul>
 <li> Strong Mathmatical Background </li>
 <li>Algorithms & Data Structures </li>
 </ul>
 
-<h3> ⭐️ Fun fact: </h3>
+### ⭐️ Fun fact: 
 I'm a full-time <b>adventure seeker!</b> <br><br>
 When I'm not coding, you can find me exploring the world & nature! 🌎 I love camping, hiking and backpacking! 🏕 <br>
 I'm also an animal lover! I spend my free time walking or going picnic with my dog, "Mango". 🐕 🐾
 
-<h3> 📫 How to reach me: </h3>
+### 📫 How to reach me: 
 Email: seungyeon1008@gmail.com <br>
 <p>
   <a href="www.linkedin.com/in/stellabaek" rel="stella's linkedin">
