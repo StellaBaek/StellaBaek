@@ -31,7 +31,7 @@ I like automating things, exploring scalable problems, collaborating with others
 </ul>
 
 ### ⭐️ Fun fact: 
-I'm a full-time <b>adventure seeker!</b> <br><br>
+> I'm a full-time <b>adventure seeker!</b> <br><br>
 When I'm not coding, you can find me exploring the world & nature! 🌎 I love camping, hiking and backpacking! 🏕 <br>
 I'm also an animal lover! I spend my free time walking or going picnic with my dog, "Mango". 🐕 🐾
 
