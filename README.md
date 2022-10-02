@@ -38,7 +38,7 @@ Email: seungyeon1008@gmail.com <br>
 LinkedIn: www.linkedin.com/in/stellabaek
 <br>
 
-https://activity-graph.herokuapp.com/graph?StellaBaek={StellaBaek}&theme=minimal
+https://activity-graph.herokuapp.com/graph?username={StellaBaek}&theme=minimal
 
 
 <!--
