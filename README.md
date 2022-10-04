@@ -33,7 +33,7 @@ ____
 > I'm a full-time <b>adventure seeker!</b> <br><br>
 When I'm not coding, you can find me exploring the world & nature! 🌎 I love camping, hiking and backpacking! 🏕 <br>
 I'm also an animal lover! I spend my free time walking or going picnic with my dog, "Mango". 🐕 🐾
-![제목 없는 디자인](https://user-images.githubusercontent.com/110431718/193717160-76ea6c8a-5534-4519-8e25-c34b083159e2.png)
+![제목 없는 디자인](https://user-images.githubusercontent.com/110431718/193717160-76ea6c8a-5534-4519-8e25-c34b083159e2.png =250x)
 
 ### 📫 How to reach me: 
 Email: seungyeon1008@gmail.com <br>
