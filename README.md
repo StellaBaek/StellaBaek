@@ -33,6 +33,7 @@ ____
 > I'm a full-time <b>adventure seeker!</b> <br><br>
 When I'm not coding, you can find me exploring the world & nature! 🌎 I love camping, hiking and backpacking! 🏕 <br>
 I'm also an animal lover! I spend my free time walking or going picnic with my dog, "Mango". 🐕 🐾
+<img src="https://www.canva.com/design/DAFOCZlexnU/BGi3pKEEUcAvhrjccVnPjw/watch?utm_content=DAFOCZlexnU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="mango with heart">
 
 ### 📫 How to reach me: 
 Email: seungyeon1008@gmail.com <br>
