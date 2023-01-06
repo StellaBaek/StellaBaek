@@ -21,6 +21,12 @@ ____
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react logo"  style="display: inline-block">
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux logo"  style="display: inline-block"> 
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodeJS logo"  style="display: inline-block">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express logo"  style="display: inline-block">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL logo"  style="display: inline-block">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo"  style="display: inline-block">
+<img src="https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=464647" alt="Deno logo"  style="display: inline-block"> 
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS logo"  style="display: inline-block">
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white  " alt="Docker logo"  style="display: inline-block">  
 
 </p>
 
