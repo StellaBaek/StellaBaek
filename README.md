@@ -6,7 +6,7 @@
 ### I'm a Software Engineer based in Los Angeles, CA ✨ 
 
 ⚡️ I'm energetic, strong-willed and always eager to learn new things. <br>
-My passion and dedication, optimism, self-motivation and cheerfulness is what distinguishes me from others. <br><br>
+My passion and dedication, optimism, self-motivation, and cheerfulness are what distinguish me from others. <br><br>
 I like automating things, exploring scalable problems, collaborating with others and improving efficiency and performance. 💻<br><br>
 
 ____
