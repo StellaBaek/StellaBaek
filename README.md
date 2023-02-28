@@ -3,7 +3,7 @@
 
 ## Hi there 👋 I'm Stella! 🤍 
 
-### I'm a Software Engineer based in Los Angeles, CA ✨ 
+### ✨ I'm a Software Engineer based in Los Angeles, CA ✨ 
 
 ⚡️ I'm energetic, strong-willed and always eager to learn new things. <br>
 My passion and dedication, optimism, self-motivation, and cheerfulness are what distinguish me from others. <br><br>
