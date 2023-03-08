@@ -5,7 +5,7 @@
 
 ### ✨ I'm a Software Engineer based in Los Angeles, CA ✨ 
 
-I'm currently working on Ponder 💭, an ORM library in PostgreSQL for Deno runtime. This open-source product is focused on providing developers with simple and intuitive methods for manipulating data and interacting with their databases, ultimately scaling down development effort and time by allowing them to use JavaScript methods instead of raw-typed SQL queries within an Object-Oriented Paradigm.
+I'm currently working on Ponder 💭, an ORM library in PostgreSQL for Deno runtime. This open-source product is focused on providing developers with simple and intuitive methods for manipulating data and interacting with their databases, ultimately scaling down development effort and time by allowing them to use JavaScript methods instead of raw-typed SQL queries.
 
 ⚡️ I'm energetic, strong-willed and always eager to learn new things. <br>
 My passion and dedication, optimism, self-motivation, and cheerfulness are what distinguish me from others. <br><br>
